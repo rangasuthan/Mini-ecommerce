@@ -1,6 +1,8 @@
 # mini-ecommerce
 Amazon look alike MERN stack project
+
 Output screenshot:
+
 Home page:
 ![Screenshot (2955)](https://github.com/user-attachments/assets/589493df-8e2f-4218-ae4c-1e05d516e286)
 
