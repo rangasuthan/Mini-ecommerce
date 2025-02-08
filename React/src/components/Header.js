@@ -1,12 +1,11 @@
 import { Link } from "react-router-dom";
 import Search from "./Search";
-import { Logo } from "./images/logo.jpg";
 
 export default function Header({cartItems}) {
     return <nav className="navbar row">
             <div className="col-12 col-md-3">
                 <div className="navbar-brand">
-                <Link to="/"> <img width="150px" src={Logo} /></Link>
+                <Link to="/"> <img width="150px" src='./images/logo.jpg' /></Link>
                 </div>
             </div>
 
