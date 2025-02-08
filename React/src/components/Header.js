@@ -5,7 +5,7 @@ export default function Header({cartItems}) {
     return <nav className="navbar row">
             <div className="col-12 col-md-3">
                 <div className="navbar-brand">
-                <Link to="/"> <img width="150px" src={require(`./images/headerLogo`)} /></Link>
+                <Link to="/"> <img width="150px" src={require(`./images/headerLogo.jpg`)} /></Link>
                 </div>
             </div>
 
