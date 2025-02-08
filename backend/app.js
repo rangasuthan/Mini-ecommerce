@@ -26,3 +26,14 @@ app.get('/', (req, res) => {
 app.listen(process.env.PORT, () => {
     console.log(`Server listening to Port ${process.env.PORT} in ${process.env.NODE_ENV}`)
 });
+
+const mongoose = require("mongoose");
+
+mongoose.connect("mongodb+srv://username:password@cluster0.mongodb.net/myDatabase", {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    serverSelectionTimeoutMS: 30000 // 30 seconds
+})
+.then(() => console.log("Connected to MongoDB Atlas"))
+.catch(err => console.error("MongoDB connection error:", err));
+
