@@ -11,7 +11,7 @@ export default function ProductDetail({cartItems, setCartItems}) {
   method: "GET",
   headers: {
     "Content-Type": "application/json",
-  })
+  },)
         .then(res => res.json())
         .then( res => setProduct(res.product))
     },[])
