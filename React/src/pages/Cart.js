@@ -65,7 +65,7 @@ export default function Cart({cartItems, setCartItems}) {
                                 <div class="cart-item">
                                     <div class="row">
                                         <div class="col-4 col-lg-3">
-                                            <img src={item.product.images[0].image} alt={item.product.name} height="90" width="115" />
+                                            <img src={require(`./../components${item.product.images[0].image}`)} alt={item.product.name} height="90" width="115" />
                                         </div>
 
                                         <div class="col-5 col-lg-3">
