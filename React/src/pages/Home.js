@@ -7,7 +7,9 @@ export default function Home(){
   const[products,setProducts]=useState([]);
   const [searchParams,setSearchParams]=useSearchParams()
   useEffect(()=>{
-    fetch(process.env.REACT_APP_API_URL+'/products?'+searchParams)
+    fetch(process.env.REACT_APP_API_URL+'/products?'+searchParams,{
+            method: 'GET',
+            headers: {'Content-Type': 'application/json'})
     .then(res=>res.json())
     .then(res=>setProducts(res.products))
 
