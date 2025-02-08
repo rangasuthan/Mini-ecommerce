@@ -1,7 +1,6 @@
 import {useState, useEffect} from 'react';
 import { useParams } from 'react-router-dom';
 
-
 export default function ProductDetail({cartItems, setCartItems}) {
     const [product, setProduct] = useState(null);
     const [qty, setQty] = useState(1);
