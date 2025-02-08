@@ -42,7 +42,7 @@ export default function ProductDetail({cartItems, setCartItems}) {
     return  product && <div className="container container-fluid">
                 <div className="row f-flex justify-content-around">
                     <div className="col-12 col-lg-5 img-fluid" id="product_image">
-                        <img src={require(`./../components/images/products/${product.images[0].image}`)} alt="sdf" height="500" width="500" />
+                        <img src={require(`./../components/${product.images[0].image}`)} alt="sdf" height="500" width="500" />
                     </div>
 
                     <div className="col-12 col-lg-5 mt-5">
