@@ -29,7 +29,7 @@ app.listen(process.env.PORT, () => {
 
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://username:password@cluster0.mongodb.net/myDatabase", {
+mongoose.connect(process.env.DB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     serverSelectionTimeoutMS: 30000 // 30 seconds
