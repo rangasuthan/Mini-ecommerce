@@ -5,5 +5,8 @@
   ],
   "routes": [
     { "src": "/(.*)", "dest": "/index.html" }
-  ]
+  ],
+  "env": {
+    "REACT_APP_API_URL": "https://mini-ecommerce-zeta-three.vercel.app/api/v1/"
+  }
 }
