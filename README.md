@@ -2,8 +2,8 @@
 _Amazon look alike MERN stack project_
 
 ## Collaborators  
-- [@Rangasuthan]([https://github.com/YourUsername](https://github.com/rangasuthan)) (Owner)  
-- [@Subhasankari]([https://github.com/Collaborator1](https://github.com/subhasankari95))
+- [@Rangasuthan](https://github.com/rangasuthan) (Owner)  
+- [@Subhasankari](https://github.com/subhasankari95)
 
 **Output screenshot:**
 **Home page:**
