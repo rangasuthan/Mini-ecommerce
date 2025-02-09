@@ -1,4 +1,4 @@
-# Mini-ecommerce
+![Screenshot (2959)](https://github.com/user-attachments/assets/60559b5b-ae80-46bf-b640-821e9b8b0d52)# Mini-ecommerce
 _Amazon look alike MERN stack project_
 
 ## Collaborators  
@@ -6,14 +6,18 @@ _Amazon look alike MERN stack project_
 - [@Subhasankari](https://github.com/subhasankari95)
 
 **Output screenshot:**
+
 **Home page:**
-![Screenshot (2955)](https://github.com/user-attachments/assets/589493df-8e2f-4218-ae4c-1e05d516e286)
+![Screenshot (2959)](https://github.com/user-attachments/assets/c77f4da4-ff66-4955-ae74-bea2a500bb51)
 
 **Product page :**
-![Screenshot (2956)](https://github.com/user-attachments/assets/6dc60ef5-4808-486e-b390-b45abf5ff16c)
+![Screenshot (2960)](https://github.com/user-attachments/assets/62a45a09-e089-46c9-83d7-30b2afc8cf8c)
 
 **Cart page:**
-![Screenshot (2957)](https://github.com/user-attachments/assets/1ff85af6-e809-45e5-bc98-228da03c2273)
+![Screenshot (2961)](https://github.com/user-attachments/assets/13f15c59-d80c-4777-892b-99c8514aa789)
 
 **Confirmation page:**
-![Screenshot (2958)](https://github.com/user-attachments/assets/55a3fae3-78ad-49c0-8cda-9bab7352556c)
+![Screenshot (2962)](https://github.com/user-attachments/assets/cae4425a-a45e-4f86-bdbc-ec8363288a3f)
+
+**Backend**
+![Screenshot (2963)](https://github.com/user-attachments/assets/7c283efa-3e47-4753-a7d9-7e37210cec50)
