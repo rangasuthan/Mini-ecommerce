@@ -1,5 +1,4 @@
-![Screenshot (2959)](https://github.com/user-attachments/assets/60559b5b-ae80-46bf-b640-821e9b8b0d52)# Mini-ecommerce
-_Amazon look alike MERN stack project_
+**_Amazon look alike MERN stack project_**
 
 ## Collaborators  
 - [@Rangasuthan](https://github.com/rangasuthan) (Owner)  
