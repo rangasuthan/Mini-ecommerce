@@ -1,4 +1,4 @@
-# mini-ecommerce
+# Mini-ecommerce
 _Amazon look alike MERN stack project_
 
 **Output screenshot:**
