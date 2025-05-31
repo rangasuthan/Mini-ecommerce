@@ -17,7 +17,7 @@ exports.createOrder = async (req, res, next) => {
 
     
 }
-exports.getorders = async (req, res, next) => {
+exports.getOrders = async (req, res, next) => {
     const query=req.query.keyword?{ name:{ 
         $regex:req.query.keyword,
         $options:'i'
